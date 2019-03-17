@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lesson_activity>
+	<quiz>
+		<title>Present and Past Tense</title>
+		<level>1</level>
+		<instruction>On the left side are some words in present tense. The words on the right are the words in past tense. Your job is to press down on a present tense word and draw a line to the past tense word.</instruction>
+		<mcq_match>
+			<opt1>Pull</opt1>
+			<opt2>Run</opt2>
+			<opt3>Ask</opt3>
+			<opt4>Show</opt4>
+			<opt5>See</opt5>
+			<match1>Pulled</match1>
+			<match2>Ran</match2>
+			<match3>Asked</match3>
+			<match4>Showed</match4>
+			<match5>Saw</match5>
+			<qid>1</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>If you make a mistake, just tap the present tense word and try again.</negative_feedback>
+		</mcq_match>
+	</quiz>
+</lesson_activity>

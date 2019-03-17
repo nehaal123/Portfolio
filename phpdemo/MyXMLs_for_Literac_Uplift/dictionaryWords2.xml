@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson-activity>
+	<quiz>
+		<title>Your Second Listening Exercise</title>
+		<level>1</level>
+		<instruction>Listen to the word and choose the correct dictionary spelling</instruction>
+		<mcq_listen>
+			<word>alarm</word>
+			<opt1>a tiny animal</opt1>
+			<opt2>a specific time set where you're alerted</opt2>
+			<opt3>a ring on your finger</opt3>
+			<corAns>2</corAns>
+			<mp3>alarm.mp3</mp3>
+			<qid>1</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>beautiful</word>
+			<opt1>a motion</opt1>
+			<opt2>a breed of horse</opt2>
+			<opt3>to describe something attractive</opt3>
+			<corAns>3</corAns>
+			<mp3>beautiful.mp3</mp3>
+			<qid>2</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>eight</word>
+			<opt1>the number after seven</opt1>
+			<opt2>a brand of laundry soap</opt2>
+			<opt3>a word that means bright</opt3>
+			<corAns>1</corAns>
+			<mp3>eight.mp3</mp3>
+			<qid>3</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>friend</word>
+			<opt1>someone who is angry</opt1>
+			<opt2>a person who you can count on</opt2>
+			<opt3>what a sunburn feels like</opt3>
+			<corAns>2</corAns>
+			<mp3>friend.mp3</mp3>
+			<qid>4</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>kitchen</word>
+			<opt1>where you sleep</opt1>
+			<opt2>where you work</opt2>
+			<opt3>where you cook</opt3>
+			<corAns>3</corAns>
+			<mp3>kitchen.mp3</mp3>
+			<qid>5</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>ocean</word>
+			<opt1>salty body of water where fish and other aquatic animals live</opt1>
+			<opt2>the act of running a marathon</opt2>
+			<opt3>the size of shoe you fit</opt3>
+			<corAns>1</corAns>
+			<mp3>ocean.mp3</mp3>
+			<qid>6</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+	</quiz>
+</lesson-activity>

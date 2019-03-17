@@ -1,0 +1,67 @@
+<lesson_activity>
+    <quiz>
+        <title>Homomyms , exercise 2</title>
+        <level>1</level>
+        <instruction>Fill in the blank with the correct option</instruction>
+        <mcq_text>
+            <task>I ate _____ muffins for breakfast.</task>
+            <opt1>too</opt1>
+            <opt2>to</opt2>
+            <opt3>two</opt3>
+            <corAns>3</corAns>
+            <qid>1</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>I ate two muffins for breakfast. <![CDATA[<br/>]]>Too - in excess, in addition or also<![CDATA[<br/>]]>Two - the number two (2)<![CDATA[<br/>]]>To - expressing motion or relating to an object</negative_feedback>
+        </mcq_text>
+        <mcq_text>
+            <task>Clean the fridge ______ the stove.</task>
+            <opt1>then</opt1>
+            <opt2>than</opt2>
+            <opt3></opt3>
+            <corAns>1</corAns>
+            <qid>2</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>Clean the fridge then the stove.<![CDATA[<br/>]]>Then - at that time, after that, next <![CDATA[<br/>]]>Than - more or less than, comparing </negative_feedback>
+        </mcq_text>
+        <mcq_text>
+            <task>_______ very nice and kind to everyone.</task>
+            <opt1>There</opt1>
+            <opt2>Their</opt2>
+            <opt3>They're</opt3>
+            <corAns>3</corAns>
+            <qid>3</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>They're very nice and kind to everyone.<![CDATA[<br/>]]>Their - belonging to them <![CDATA[<br/>]]>There - location <![CDATA[<br/>]]>They're - contraction of "they are"</negative_feedback>
+        </mcq_text>
+        <mcq_text>
+            <task>Please take ______ skates with you to the rink.</task>
+            <opt1>your</opt1>
+            <opt2>you're</opt2>
+            <opt3></opt3>
+            <corAns>1</corAns>
+            <qid>4</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>Please take your skates with you to the rink.<![CDATA[<br/>]]>Your - belonging to you<![CDATA[<br/>]]>You're is a contraction of the words "you are"</negative_feedback>
+        </mcq_text>
+        <mcq_text>
+            <task>_______ excited to go on vacation.</task>
+            <opt1>Were</opt1>
+            <opt2>Where</opt2>
+            <opt3>We're</opt3>
+            <corAns>3</corAns>
+            <qid>5</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>We're excited to go on vacation.<![CDATA[<br/>]]>We're - contraction of "we are"<![CDATA[<br/>]]>Were - plural past<![CDATA[<br/>]]>Where - referring to a place</negative_feedback>
+        </mcq_text>
+        <mcq_text>
+            <task>She doesn't live _______ anymore.</task>
+            <opt1>here</opt1>
+            <opt2>hear</opt2>
+            <opt3></opt3>
+            <corAns>1</corAns>
+            <qid>6</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>She doesn't live here anymore.<![CDATA[<br/>]]>Here - place <![CDATA[<br/>]]>Hear - perceive sound</negative_feedback>
+        </mcq_text>
+    </quiz>
+</lesson_activity>

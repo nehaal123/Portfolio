@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lesson_activity>
+    <story>
+        <title>Making Cookies</title>
+        <body>Baking cookies doesn't take very long. First, assemble all the ingredients. The second step is to pre-heat the oven to 350 degrees. Next, mix all the dry ingredients in a bowl. Mix the eggs with the dry ingredients. Grease or use wax paper on a cookie sheet. Roll the cookie dough into small balls. Place the cookie balls on the cookies sheet and press down. Finally, cook in the oven for 20 minutes.</body>
+        <instruction>Tap on the step number and draw a line to the appropriate step.</instruction>
+        <mcq_order>
+            <step1>Get all the ingredients together</step1>
+            <step2>Pre heat oven</step2>
+            <step3>Mix dry ingredients together</step3>
+            <step4>Beat eggs with dry ingredients</step4>
+            <step5>Grease cookie sheet</step5>
+            <step6>Roll cookie dough into a ball</step6>
+            <step7>Press cookie ball flat on cookies sheet</step7>
+            <step8>Bake for 20 mintues</step8>
+            <qid>1</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>try again! you got this</negative_feedback>
+        </mcq_order>
+    </story>
+    </lesson_activity>

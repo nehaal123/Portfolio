@@ -1,0 +1,68 @@
+<lesson_activity>
+    <quiz>
+        <title>Homomyms , exercise 3</title>
+        <level>1</level>
+        <instruction>Fill in the blank with the correct option</instruction>
+        <mcq_text>
+            <task>There were ______ many people at the park.</task>
+            <opt1>too</opt1>
+            <opt2>to</opt2>
+            <opt3>two</opt3>
+            <corAns>1</corAns>
+            <qid>1</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>There were too many people at the park. <![CDATA[<br/>]]>Too - in excess, in addition or also<![CDATA[<br/>]]>Two - the number two (2)<![CDATA[<br/>]]>To - expressing motion or relating to an object</negative_feedback>
+        </mcq_text>
+        <mcq_text>
+            <task>Can you see the restaurant over ______ ?</task>
+            <opt1>there</opt1>
+            <opt2>their</opt2>
+            <opt3>they're</opt3>
+            <corAns>1</corAns>
+            <qid>2</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>Can you see the restaurant over there?<![CDATA[<br/>]]>Their - belonging to them <![CDATA[<br/>]]>There - location <![CDATA[<br/>]]>They're - contraction of "they are"</negative_feedback>
+        </mcq_text>
+        <mcq_text>
+            <task>The shelves in the store were _______.</task>
+            <opt1>bare</opt1>
+            <opt2>bear</opt2>
+            <opt3></opt3>
+            <corAns>1</corAns>
+            <qid>3</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>The shelves in the store were bare.<![CDATA[<br/>]]>Bear - the animal <![CDATA[<br/>]]>Bare - simple, without </negative_feedback>
+        </mcq_text>
+
+        <mcq_text>
+            <task>Let's get a _______ pizza to share.</task>
+            <opt1>whole</opt1>
+            <opt2>hole</opt2>
+            <opt3></opt3>
+            <corAns>1</corAns>
+            <qid>4</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>Let's get a whole pizza to share.<![CDATA[<br/>]]>Whole - all of or an entire object<![CDATA[<br/>]]>Hole - an opening</negative_feedback>
+        </mcq_text>
+        <mcq_text>
+            <task>The kids like to ______ down the hill.</task>
+            <opt1>role</opt1>
+            <opt2>roll</opt2>
+            <opt3></opt3>
+            <corAns>2</corAns>
+            <qid>5</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>The kids like to roll down the hill.<![CDATA[<br/>]]>Roll - in a ball<![CDATA[<br/>]]>Role - part in a play</negative_feedback>
+        </mcq_text>
+        <mcq_text>
+            <task>The dog is wagging his ________. </task>
+            <opt1>tail</opt1>
+            <opt2>tale</opt2>
+            <opt3></opt3>
+            <corAns>1</corAns>
+            <qid>6</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>The dog is wagging his tail.<![CDATA[<br/>]]>Tail - end, or animal tail <![CDATA[<br/>]]>Tale - story told</negative_feedback>
+        </mcq_text>
+    </quiz>
+</lesson_activity>

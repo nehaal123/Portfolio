@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson_activity>
+	<test>
+		<title>End of Unit Test</title>
+        <level>1</level>
+        <instruction>welcome to your first Test.Complete all the tasks you have previously encountered</instruction>
+		<mcq_text>
+			<task>What utility sent this bill?</task>
+			<opt1>Cable</opt1>
+			<opt2>Hydro</opt2>
+			<opt3>Natural Gas</opt3>
+			<opt4>Telephone</opt4>
+			<corAns>2</corAns>
+            <qid>1</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>try again! you got this</negative_feedback>
+		</mcq_text>	
+		
+		<story>
+			<title>Making Cookies</title>
+			<body>Baking cookies doesn't take very long. First, assemble all the ingredients. The second step is to pre-heat the oven to 350 degrees. Next, mix all the dry ingredients in a bowl. Mix the eggs with the dry ingredients. Grease or use wax paper on a cookie sheet. Roll the cookie dough into small balls. Place the cookie balls on the cookies sheet and press down. Finally, cook in the oven for 20 minutes.</body>
+			<instruction>Tap on the step number and draw a line to the appropriate step.</instruction>
+			<mcq_order>
+				<step1>Get all the ingredients together</step1>
+				<step2>Pre heat oven</step2>
+				<step3>Mix dry ingredients together</step3>
+				<step4>Beat eggs with dry ingredients</step4>
+				<step5>Grease cookie sheet</step5>
+				<step6>Roll cookie dough into a ball</step6>
+				<step7>Press cookie ball flat on cookies sheet</step7>
+				<step8>Bake for 20 mintues</step8>
+				<qid>1</qid>
+				<positive_feedback>Excellent</positive_feedback>
+				<negative_feedback>try again! you got this</negative_feedback>
+			</mcq_order>	
+	    </story>
+
+		<mcq_listen>
+            <word>beautiful</word>
+            <opt1>a motion</opt1>
+            <opt2>a breed of horse</opt2>
+            <opt3>to describe something attractive</opt3>
+            <corAns>3</corAns>
+            <mp3>beautiful.mp3</mp3>
+            <qid>2</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>try again! you got this</negative_feedback>
+        </mcq_listen>
+        <mcq_listen>
+            <word>eight</word>
+            <opt1>the number after seven</opt1>
+            <opt2>a brand of laundry soap</opt2>
+            <opt3>a word that means bright</opt3>
+            <corAns>1</corAns>
+            <mp3>eight.mp3</mp3>
+            <qid>3</qid>
+            <positive_feedback>Excellent</positive_feedback>
+            <negative_feedback>try again! you got this</negative_feedback>
+        </mcq_listen>
+
+		<story>
+			<title>Sam and Pat</title>
+			<body>It takes time to lose body fat. The key is to exercise and eat right. You need to exercise at least three times a week. Ride a bike. Go for a jog. Go for a swim. Walk the dog. Run up and down the stairs. You should change the way you shop and eat. Look for fat free foods in the store. Do not eat candy and chips. Eat lots of fish, grains, and fruit. Soon you will begin to look slim and trim.</body>
+			<mcq_text>
+				<task>Check off the kinds of exercise that the author suggested.</task>
+				<opt1>Biking</opt1>
+				<opt2>Jogging</opt2>
+				<opt3>Camping</opt3> 3 is wrong
+				<opt4>Swimming</opt4> walking the dog, running up and down the stairs
+				<corAns>1,2,4</corAns>
+				<qid>1</qid> 
+				<positive_feedback>Excellent</positive_feedback>
+				<negative_feedback>Biking, jogging, swimming, walking the dog, and running up and down the stairs</negative_feedback>
+			</mcq_text>
+			<mcq_text>
+				<task>What do you think was the cheapest indoor exercise mentioned in this story?</task>
+				<opt1>Biking or jogging</opt1>
+				<opt2>Running stairs</opt2>
+				<opt3>Walking the dog</opt3> 
+				<opt4>Swimming</opt4> 
+				<corAns>2</corAns>
+				<qid>2</qid> 
+				<positive_feedback>Excellent</positive_feedback>
+				<negative_feedback>Running up and down stairs because most people can do this for free at home.</negative_feedback>
+			</mcq_text>
+		</story>
+    </test>
+</lesson_activity>

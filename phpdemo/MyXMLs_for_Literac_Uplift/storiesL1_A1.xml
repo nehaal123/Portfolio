@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson_activity>
+	<story>
+		<title>Cats</title>
+		<instruction>Read the story and answer the questions</instruction>
+		<body>Some people have cats. Cats like to sleep. They can sleep all day. They like to sleep in the sun. Cats do not like to get wet. Cats like to eat meat. They like to drink milk. Cats are good pets.</body>
+		<mcq_text>
+			<task>What do cats like to do all day?</task>
+			<opt1>Sleep</opt1>
+			<opt2>Sit in the sun</opt2>
+			<opt3>Get wet</opt3>
+			<opt4>Drink</opt4>
+			<opt5></opt5>
+			<opt6></opt6>
+			<opt7></opt7>
+			<opt8></opt8>
+			<corAns>1</corAns>
+			<qid>1</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>They can sleep all day.</negative_feedback>
+		</mcq_text>
+
+		<mcq_multi>
+			<task>Select 3 things about cats sleeping habits.</task>
+			<opt1>Like to sleep on the couch</opt1>
+			<opt2>Like to sleep in the sun</opt2>
+			<opt3>They tend to snore</opt3>
+			<opt4>Sleeps only at night</opt4>
+			<opt5>Like to sleep in a bath</opt5>
+			<opt6>Like to sleep in a person's lap</opt6>
+			<opt7></opt7>
+			<opt8></opt8>
+			<corAns>126</corAns>
+			<qid>2</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>hey like to sleep in the sun, couch and on a person's lap.</negative_feedback>
+		</mcq_multi>
+		
+		<mcq_multi>
+			<task>Select 3 things about cats sleeping habits.</task>
+			<opt1>Like to sleep on the couch</opt1>
+			<opt2>Like to sleep in the sun</opt2>
+			<opt3>They tend to snore</opt3>
+			<opt4>Sleeps only at night</opt4>
+			<opt5>Like to sleep in a bath</opt5>
+			<opt6>Like to sleep in a person's lap</opt6>
+			<opt7></opt7>
+			<opt8></opt8>
+			<corAns>2,3,4</corAns>
+			<qid>2</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>hey like to sleep in the sun, couch and on a person's lap.</negative_feedback>
+		</mcq_multi>
+
+		<mcq_text>
+			<task>What do cats not like?</task>
+
+			<opt1>Humans</opt1>
+			<opt2>The sun</opt2>
+			<opt3>Meat</opt3>
+			<opt4>Getting wet</opt4>
+			<opt5></opt5>
+			<opt6></opt6>
+			<opt7></opt7>
+			<opt8></opt8>
+			<corAns>4</corAns>
+			<qid>3</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>Cats do not like to get wet.</negative_feedback>
+		</mcq_text>
+
+		<mcq_text>
+			<task>What do cats like to eat?</task>
+			<opt1>Meat</opt1>
+			<opt2>Dirt</opt2>
+			<opt3>Dog food</opt3>
+			<opt4>Donuts</opt4>
+			<opt5></opt5>
+			<opt6></opt6>
+			<opt7></opt7>
+			<opt8></opt8>
+			<corAns>1</corAns>
+			<qid>4</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>Cats like to eat meat.</negative_feedback>
+		</mcq_text>
+
+		<mcq_text>
+			<task>What do cats like to drink?</task>
+			<opt1>Tea</opt1>
+			<opt2>Coffee</opt2>
+			<opt3>Water from the toilet</opt3>
+			<opt4>Milk</opt4>
+			<opt5></opt5>
+			<opt6></opt6>
+			<opt7></opt7>
+			<opt8></opt8>
+			<corAns>4</corAns>
+			<qid>5</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>They like to drink milk.</negative_feedback>
+		</mcq_text>
+	</story>
+</lesson_activity>

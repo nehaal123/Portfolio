@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson_activity>
+	<quiz>
+		<title>Hydro</title>
+		<level>1</level>
+		<instruction>Answer the Multiple choice question</instruction>
+		<mcq_text>
+			<task>What utility sent this bill?</task>
+			<opt1>Cable</opt1>
+			<opt2>Hydro</opt2>
+			<opt3>Natural Gas</opt3>
+			<opt4>Telephone</opt4>
+			<corAns>2</corAns>
+			<qid>1</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>What city is this company located?</task>
+			<opt1>Toronto</opt1>
+			<opt2>Ontario</opt2>
+			<opt3>New York</opt3>
+			<opt4>Does Not Say</opt4>
+			<corAns>1</corAns>
+			<qid>2</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>According to the Statement Date, what month was this bill sent?</task>
+			<opt1>November</opt1>
+			<opt2>December</opt2>
+			<opt3>January</opt3>
+			<opt4>February</opt4>
+			<corAns>3</corAns>
+			<qid>3</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>How much was owed from the previous month?</task>
+			<opt1>$50.10</opt1>
+			<opt2>$110.20</opt2>
+			<opt3>$160.30</opt3>
+			<opt4>It doesn't say</opt4>
+			<corAns>1</corAns>
+			<qid>4</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>What is this month's charge?</task>
+			<opt1>$50.10</opt1>
+			<opt2>$110.20</opt2>
+			<opt3>$160.30</opt3>
+			<opt4>It doesn't say</opt4>
+			<corAns>2</corAns>
+			<qid>5</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>What is the final value of this bill?</task>
+			<opt1>$50.10</opt1>
+			<opt2>$110.20</opt2>
+			<opt3>$160.30</opt3>
+			<opt4>It doesn't say</opt4>
+			<corAns>3</corAns>
+			<qid>6</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_text>
+	</quiz>
+</lesson_activity>

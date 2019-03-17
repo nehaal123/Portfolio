@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson_activity>
+	<quiz>
+		<title>Card Matching Anniversary/birthday</title>
+		<level>1</level>
+		<instruction>Answer the Multiple choice question</instruction>
+		<mcq_visual>
+			<task>Tap on the card for a couple celebrating their 25th anniversary.</task>
+			<card1>.jpeg</card1>
+			<card2>.jpeg</card2>
+			<card3>.jpeg</card3>
+			<card4>.jepg</card4>
+			<corAns>4</corAns>
+			<qid>1</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_visual>
+		<mcq_visual>
+			<task>Tap on the card for a couple celebrating their 60th anniversary.</task>
+			<card1>.jpeg</card1>
+			<card2>.jpeg</card2>
+			<card3>.jpeg</card3>
+			<card4>.jepg</card4>
+			<corAns>4</corAns>
+			<qid>2</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_visual>
+		<mcq_visual>
+			<task>Tap on the card for a guy celebrating his 40th birthday.</task>
+			<card1>.jpeg</card1>
+			<card2>.jpeg</card2>
+			<card3>.jpeg</card3>
+			<card4>.jepg</card4>
+			<corAns>1</corAns>
+			<qid>3</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_visual>
+		<mcq_visual>
+			<task>Tap on the card for a lady celebrating her 40th birthday.</task>
+			<card1>.jpeg</card1>
+			<card2>.jpeg</card2>
+			<card3>.jpeg</card3>
+			<card4>.jepg</card4>
+			<corAns>2</corAns>
+			<qid>4</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_visual>
+		<mcq_visual>
+			<task>Your friend likes Christmas wreaths. Which card do you choose.</task>
+			<card1>.jpeg</card1>
+			<card2>.jpeg</card2>
+			<card3>.jpeg</card3>
+			<card4>.jepg</card4>
+			<corAns>2</corAns>
+			<qid>5</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_visual>
+		<mcq_visual>
+			<task>Your friend likes Christmas bells. Which card do you choose.</task>
+			<card1>.jpeg</card1>
+			<card2>.jpeg</card2>
+			<card3>.jpeg</card3>
+			<card4>.jepg</card4>
+			<corAns>4</corAns>
+			<qid>6</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_visual>
+		<mcq_visual>
+			<task>You like Christmas trees. Which card do you choose.</task>
+			<card1>.jpeg</card1>
+			<card2>.jpeg</card2>
+			<card3>.jpeg</card3>
+			<card4>.jepg</card4>
+			<corAns>3</corAns>
+			<qid>7</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_visual>
+	</quiz>
+</lesson_activity>

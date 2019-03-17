@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson_activity>
+	<quiz>
+		<title>Homomyms, exercise 1</title>
+		<level>1</level>
+		<instruction>Fill in the blank with the correct option</instruction>
+		<mcq_text>
+			<task>We walked ______ the mall.</task>
+			<opt1>too</opt1>
+			<opt2>to</opt2>
+			<opt3>two</opt3>
+			<corAns>2</corAns>
+			<qid>1</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>We walked to the mall. <![CDATA[<br/>]]>Too - in excess, in addition or also<![CDATA[<br/>]]>Two - the number two (2)<![CDATA[<br/>]]>To - expressing motion or relating to an object</negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>Come over _____ so we can talk.</task>
+			<opt1>here</opt1>
+			<opt2>hear</opt2>
+			<opt3></opt3>
+			<corAns>1</corAns>
+			<qid>2</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>Come over here so we can talk.<![CDATA[<br/>]]>Hear - perceive sound <![CDATA[<br/>]]>Here - a location </negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task> _____ comes our team.</task>
+			<opt1>here</opt1>
+			<opt2>hear</opt2>
+			<opt3></opt3>
+			<corAns>1</corAns>
+			<qid>3</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>Here comes our team.<![CDATA[<br/>]]>Hear - perceive sound <![CDATA[<br/>]]>Here - a location </negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task> I like the Christmas song Do you ____ what I _____.</task>
+			<opt1>here</opt1>
+			<opt2>hear</opt2>
+			<opt3></opt3>
+			<corAns>2</corAns>
+			<qid>4</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>I like the Christmas song Do you hear what I hear.<![CDATA[<br/>]]>Hear - perceive sound <![CDATA[<br/>]]>Here - a location </negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>She arrived home at ____ o'clock.</task>
+			<opt1>too</opt1>
+			<opt2>to</opt2>
+			<opt3>two</opt3>
+			<corAns>3</corAns>
+			<qid>5</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>She arrived home at two o'clock. <![CDATA[<br/>]]>Too - in excess, in addition or also<![CDATA[<br/>]]>Two - the number two (2)<![CDATA[<br/>]]>To - expressing motion or relating to an object</negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>Serge ate ____ much food.</task>
+			<opt1>too</opt1>
+			<opt2>to</opt2>
+			<opt3>two</opt3>
+			<cor>1</cor>
+			<qid>6</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>Serge ate too much food.<![CDATA[<br/>]]>Too - in excess, in addition or also<![CDATA[<br/>]]>Two - the number two (2)<![CDATA[<br/>]]>To - expressing motion or relating to an object</negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>___ little, ____ late.</task>
+			<opt1>too</opt1>
+			<opt2>to</opt2>
+			<opt3>two</opt3>
+			<corAns>1</corAns>
+			<qid>7</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>Too little, too late.<![CDATA[<br/>]]>Too - in excess, in addition or also<![CDATA[<br/>]]>Two - the number two (2)<![CDATA[<br/>]]>To - expressing motion or relating to an object</negative_feedback>
+		</mcq_text>
+		<mcq_text>
+			<task>Do you _____ that loud noise?</task>
+			<opt1>here</opt1>
+			<opt2>hear</opt2>
+			<opt3></opt3>
+			<corAns>2</corAns>
+			<qid>8</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>Do you hear that loud noise?<![CDATA[<br/>]]>Hear - perceive sound <![CDATA[<br/>]]>Here - a location</negative_feedback>
+		</mcq_text>
+	</quiz>
+</lesson_activity>

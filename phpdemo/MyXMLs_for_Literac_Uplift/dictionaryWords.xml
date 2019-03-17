@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson_activity>
+	<quiz>
+		<title>Your First Listening Exercise</title>
+		<level>1</level>
+		<instruction>Listen to the word and choose the correct spelling</instruction>
+		<mcq_listen>
+			<word>which</word>
+			<opt1>A Halloween character that rides a broom</opt1>
+			<opt2>What one</opt2>
+			<opt3>A device that tells time</opt3>
+			<corAns>2</corAns>
+			<mp3>which.mp3</mp3>
+			<qid>1</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>around</word>
+			<opt1>In a circle or ring</opt1>
+			<opt2>A sound that is in tune</opt2>
+			<opt3>A type of table</opt3>
+			<corAns>1</corAns>
+			<mp3>around.mp3</mp3>
+			<qid>2</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>mother</word>
+			<opt1>A time early in the day</opt1>
+			<opt2>When you feel sad</opt2>
+			<opt3>A woman who gave birth to you</opt3>
+			<corAns>3</corAns>
+			<mp3>mother.mp3</mp3>
+			<qid>3</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>something</word>
+			<opt1>An unknown thing</opt1>
+			<opt2>A number of items</opt2>
+			<opt3>When you get too much sun</opt3>
+			<corAns>1</corAns>
+			<mp3>something.mp3</mp3>
+			<qid>4</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>thought</word>
+			<opt1>Something that is hard to cut</opt1>
+			<opt2>This is mental activity</opt2>
+			<opt3>Something that is thick</opt3>
+			<corAns>2</corAns>
+			<mp3>thought.mp3</mp3>
+			<qid>5</qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+		<mcq_listen>
+			<word>children</word>
+			<opt1>Small things that are cold</opt1>
+			<opt2>An offspring</opt2>
+			<opt3>The plural of child</opt3>
+			<corAns>6</corAns>
+			<mp3>children.mp3</mp3>
+			<qid></qid>
+			<positive_feedback>Excellent</positive_feedback>
+			<negative_feedback>try again! you got this</negative_feedback>
+		</mcq_listen>
+	</quiz>
+</lesson_activity>
